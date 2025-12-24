@@ -1,0 +1,7 @@
+mq_sdk/__pycache__
+__pycache__
+*pyc
+mq_sdk.egg-info
+.vscode
+.idea
+.ruff_cache

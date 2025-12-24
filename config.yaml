@@ -1,0 +1,10 @@
+mqType: "kafka"
+mqHost: "localhost"
+mqPort: 9098
+mqLookupdHost: ""
+mqLookupdPort: 0
+# 如果不启用认证，则没有auth字段，或者auth: {}
+auth:
+  username: "test"
+  password: "testpwd"
+  mechanism: "PLAIN"
